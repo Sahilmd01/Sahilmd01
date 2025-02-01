@@ -1,29 +1,20 @@
 <img alt="banner" width="" src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif">
-<h1 align="center">Hi 👋, I'm sahil</h1>
+<h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">A passionate MERN STACK DEVELOPER from India</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmd01&label=Profile%20views&color=0e75b6&style=flat"
         alt="sahilmd01" /> </p>
-
 
 <img align="right" alt="coding" width="400"
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl3dmFtbWtrYmpsZHBuMW04N2FwazUyb29kbWRjdWN6OXlhM3A1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 🔭 I’m currently working on **E-commerce website**
-
 - 🌱 I’m currently learning **React Native**
-
 - 👯 I’m looking to collaborate on **MERN PROJECTS**
-
 - 🤝 I’m looking for help with **MERN, Python, Java**
-
 - 💬 Ask me about **MERN**
-
 - 📫 How to reach me **codewithkinu@gmail.com**
-
-- ⚡ Fun fact **💻 Code by day, hack ethically by night, and teach with fun in between! 🚀 Balancing web dev, backend,
-JavaScript, ethical hacking, because why choose just one?**
+- ⚡ Fun fact **💻 Code by day, hack ethically by night, and teach with fun in between! 🚀 Balancing web dev, backend, JavaScript, ethical hacking, because why choose just one?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -82,13 +73,16 @@ JavaScript, ethical hacking, because why choose just one?**
 </p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilmd01&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilmd01&show_icons=true&locale=en&layout=compact&theme=tokyonight"
         alt="sahilmd01" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=sahilmd01&show_icons=true&locale=en" alt="sahilmd01" />
-</p>
+        src="https://github-readme-stats.vercel.app/api?username=sahilmd01&show_icons=true&locale=en&theme=tokyonight"
+        alt="sahilmd01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmd01&" alt="sahilmd01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmd01&theme=tokyonight"
+        alt="sahilmd01" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=sahilmd01" alt="sahilmd01" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=sahilmd01&theme=tokyonight" alt="sahilmd01" /></a>
+</p>
