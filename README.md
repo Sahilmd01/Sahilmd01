@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmd01&label=Profile%20views&color=0e75b6&style=flat"
         alt="sahilmd01" /> </p>
 
-<img align="right" alt="coding" width="400"
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl3dmFtbWtrYmpsZHBuMW04N2FwazUyb29kbWRjdWN6OXlhM3A1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="coding" width="500" height="250"
+    src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
 - 🔭 I’m currently working on **E-commerce website**
 - 🌱 I’m currently learning **React Native**
