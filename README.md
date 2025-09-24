@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **MERN PROJECTS**
 - 🤝 I’m looking for help with **MERN, Python, Java**
 - 💬 Ask me about **MERN**
-- 📫 How to reach me **codewithkinu@gmail.com**
+- 📫 How to reach me **sahilmd.dev@gmail.com**
 - ⚡ Fun fact **💻 Code by day, hack ethically by night, and teach with fun in between! 🚀 Balancing web dev, backend, JavaScript, ethical hacking, because why choose just one?**
 
 <h3 align="left">Connect with me:</h3>
