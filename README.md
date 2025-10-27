@@ -16,9 +16,6 @@
   ![GitHub Followers](https://img.shields.io/github/followers/sahilmd01?label=Followers&style=social)
   ![GitHub Stars](https://img.shields.io/github/stars/sahilmd01?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-  <!-- 🎵 Spotify Now Playing -->
-  [![Spotify](https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark)](https://open.spotify.com/user/your-profile)
-
 </div>
 
 ---
