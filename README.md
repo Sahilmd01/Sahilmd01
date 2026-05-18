@@ -62,7 +62,7 @@ freelance:
 
 <div align="center">
 
-> ### 🤖 HireAI — The Future of Intelligent Hiring
+> ### 🤖 HIREAI — The Future of Intelligent Hiring
 > **AI-Powered Job Portal | Smart Matching | Voice Interviews | Global Payments**
 
 </div>
