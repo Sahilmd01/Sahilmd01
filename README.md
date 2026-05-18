@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sahil%20MD&fontSize=70&fontColor=00f5d4&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Startup%20Founder&descAlignY=58&descSize=18&descColor=a78bfa&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sahil%20MD&fontSize=70&fontColor=00f5d4&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Startup%20Building&descAlignY=58&descSize=18&descColor=a78bfa&animation=twinkling"/>
 </div>
 
 <h1 align="center">
@@ -125,7 +125,7 @@ freelance:
 
 | 💡 Project | 🧩 Tech Stack | 📊 Status | 🌐 Demo |
 |-----------|---------------|-----------|---------|
-| 🤖 **HireAI** *(Startup)* | Next.js, Supabase, Clerk, Gemini, Claude, Groq, Deepgram, LiveKit, Redis, Stripe, Razorpay | 🟡 30% — Building | Coming Soon |
+| 🤖 **JobQue--Powered by CLOUDE CODE & GOOGLE GEMINI** *(Startup)* | Next.js, Supabase, Clerk, Gemini, Claude, Groq, Deepgram, LiveKit, Redis, Stripe, Razorpay | 🟡 30% — Building | [View Demo](https://jobque-ai.vercel.app) |
 | 💬 **TalkPlayHub** | MERN, Redis, Cloudinary, Stripe, WebSocket.io | 🟢 50% — Dev | [View Demo](https://talkplayhub.vercel.app) |
 | 🧠 **GenAxis** | PERN, Google Gemini, Clerk | 🟢 90% — Near Launch | [View Demo](https://genaxis.vercel.app) |
 | 📹 **Conversa** | React, Node.js, Socket.io, Stream | 🟡 In Dev | [View Demo](https://conversa-connect.onrender.com/) |
