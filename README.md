@@ -98,7 +98,7 @@ freelance:
 
 | Detail | Info |
 |--------|------|
-| **Status** | 🟡 30% — Active Development |
+| **Status** | 🟡 40% — Active Development |
 | **Tech Stack** | Next.js 14 · Supabase · Clerk · Gemini · Claude API · Groq · Deepgram · LiveKit · Redis · Stripe · Razorpay · Resend |
 | **Target Users** | Job Seekers + Recruiters across India & Global |
 | **Demo** | 🔒 Coming Soon |
