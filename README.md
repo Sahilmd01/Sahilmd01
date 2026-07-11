@@ -35,7 +35,7 @@ passion:
   - Turning ideas into deployed products fast
 
 currently:
-  building:  "HireAI — AI-powered Job Portal 🚀"
+  building:  "Jobque-AI — AI-powered Hiring Platform 🚀"
   learning:  "AWS Cloud + React Native"
   goal:      "1000+ GitHub contributions this year"
 
@@ -49,6 +49,10 @@ freelance:
 <td width="42%" align="center" valign="middle">
   <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" width="100%" alt="Coding GIF" style="border-radius: 12px;"/>
   <br/><br/>
+  <a href="https://portfolio.devlyhub.in">
+    <img src="https://img.shields.io/badge/🌐_My_Portfolio-portfolio.devlyhub.in-00f5d4?style=for-the-badge&labelColor=0d1117"/>
+  </a>
+  <br/>
   <a href="mailto:sahilmd.dev@gmail.com">
     <img src="https://img.shields.io/badge/📫_Contact_Me-sahilmd.dev@gmail.com-00f5d4?style=for-the-badge&labelColor=0d1117"/>
   </a>
@@ -62,7 +66,7 @@ freelance:
 
 <div align="center">
 
-> ### 🤖 HIREAI — The Future of Intelligent Hiring
+> ### 🤖 JOBQUE-AI — The Future of Intelligent Hiring
 > **AI-Powered Job Portal | Smart Matching | Voice Interviews | Global Payments**
 
 </div>
@@ -101,7 +105,7 @@ freelance:
 | **Status** | 🟡 40% — Active Development |
 | **Tech Stack** | Next.js 14 · Supabase · Clerk · Gemini · Claude API · Groq · Deepgram · LiveKit · Redis · Stripe · Razorpay · Resend |
 | **Target Users** | Job Seekers + Recruiters across India & Global |
-| **Demo** | 🔒 Coming Soon |
+| **Demo** | [https://jobque-ai.vercel.app](https://jobque-ai.vercel.app) |
 
 </div>
 
@@ -112,7 +116,7 @@ freelance:
 > 💡 If you're a passionate developer who loves AI, full-stack, or product design —  
 > **I'd love to have you on this journey.**
 
-[![Collaborate on HireAI](https://img.shields.io/badge/🚀_Join_HireAI_Team-Reach_out_now!-a78bfa?style=for-the-badge&labelColor=0d1117)](mailto:sahilmd.dev@gmail.com)
+[![Collaborate on Jobque-AI](https://img.shields.io/badge/🚀_Join_Jobque--AI_Team-Reach_out_now!-a78bfa?style=for-the-badge&labelColor=0d1117)](mailto:sahilmd.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithkinu)
 
 </div>
@@ -125,7 +129,7 @@ freelance:
 
 | 💡 Project | 🧩 Tech Stack | 📊 Status | 🌐 Demo |
 |-----------|---------------|-----------|---------|
-| 🤖 **JobQue--Powered by CLOUDE CODE & GOOGLE GEMINI** *(Startup)* | Next.js, Supabase, Clerk, Gemini, Claude, Groq, Deepgram, LiveKit, Redis, Stripe, Razorpay | 🟡 30% — Building | [View Demo](https://jobque-ai.vercel.app) |
+| 🤖 **JobQue-AI** *(Startup)* | Next.js, Supabase, Clerk, Gemini, Claude, Groq, Deepgram, LiveKit, Redis, Stripe, Razorpay | 🟡 40% — Building | [View Demo](https://jobque-ai.vercel.app) |
 | 💬 **TalkPlayHub** | MERN, Redis, Cloudinary, Stripe, WebSocket.io | 🟢 50% — Dev | [View Demo](https://talkplayhub.vercel.app) |
 | 🧠 **GenAxis** | PERN, Google Gemini, Clerk | 🟢 90% — Near Launch | [View Demo](https://genaxis.vercel.app) |
 | 📹 **Conversa** | React, Node.js, Socket.io, Stream | 🟡 In Dev | [View Demo](https://conversa-connect.onrender.com/) |
@@ -268,14 +272,5 @@ Whether it's a quick landing page or a full-stack product — I deliver with spe
 
 **Thanks for visiting! Drop a ⭐ on something you like — it means a lot.**
 
-<div align="center">
-
-  ![Visitor Counter](https://count.getloli.com/get/@sahilmd01?theme=rule34)
-  
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilmd01&theme=tokyonight" alt="GitHub Profile Summary" width="100%"/>
-
 </div>
 
-</div>
